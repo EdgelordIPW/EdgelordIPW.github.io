@@ -1,1 +1,1 @@
-# Sonic Adventure 3
+# Sanic
